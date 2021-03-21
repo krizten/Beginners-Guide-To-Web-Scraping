@@ -1,5 +1,5 @@
 # Web Scraping Fundamentals
-![Python Version](https://img.shields.io/badge/python-3.6.5-green.svg) ![Beautiful Soup](https://img.shields.io/badge/beautifulsoup-4.6.0-red.svg) ![Selenium](https://img.shields.io/badge/selenium-3.13.0-yellow.svg) ![Srapy](https://img.shields.io/badge/scrapy-1.5-brightgreen.svg) ![Unittest](https://img.shields.io/badge/unittest-yes-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.9.2-green.svg) ![Beautiful Soup](https://img.shields.io/badge/beautifulsoup-4.9.0-red.svg) ![Selenium](https://img.shields.io/badge/selenium-3.141.0-yellow.svg) ![Srapy](https://img.shields.io/badge/scrapy-2.41-brightgreen.svg)
 
 This tutorial cover the basics of web scraping and it is intended for Python beginners,intermediate or any one who is interested in building data mining bots. The content of this repository is totally free for use. Please see note on [licensing](https://github.com/krizten/ScrapingFundamentals/blob/master/LICENSE) to learn more about copyright issues. Contributions are most welcome. Kindly open an issue or make a pull request for your contributions and feedback.
 
@@ -15,7 +15,7 @@ The tutorial is structured into five (5) sections, namely:
 ## ```TABLE OF CONTENTS```
 * Preamble
   * Installation and setup of Python Interpreter, IDE/Text Editor
-  * Introduction to web scraping, Robots.txt
+  * Web scraping theories (Introduction to web scraping, robots.txt, Sitemaps, legal policy and more)
   * Crawling Vs Scraping
 
 
